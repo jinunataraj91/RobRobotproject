@@ -15,6 +15,8 @@ MySecondTest
     Log   This is my second test
     Set Tags     regression1
     Remove Tags     regression1
+MyThirdTest
+    Log    This is my third test
 
 
 
